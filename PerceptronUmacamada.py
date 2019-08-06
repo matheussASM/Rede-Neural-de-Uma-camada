@@ -8,6 +8,10 @@ Created on Sat Aug  3 19:39:06 2019
 
 import numpy as np
 
+#Operador XOR
+#entradas = np.array([[0,0],[0,1],[1,0],[1,1]])
+#saidas = np.array([0,1,1,0])
+
 entradas = np.array([[0,0],[0,1],[1,0],[1,1]])
 saidas = np.array([0,0, 0,1])
 pesos = np.array([0.0, 0.0])
